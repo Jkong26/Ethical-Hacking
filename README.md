@@ -34,4 +34,4 @@ Full AD compromise from unauthenticated access. Techniques: Anonymous LDAP enume
 ## Disclaimer
 
 > All work was conducted in **isolated lab environments** for academic purposes only.  
-> Unauthorised use of these techniques against real systems is **illegal and unethical**.
+
